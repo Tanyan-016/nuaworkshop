@@ -1,0 +1,33 @@
+  h1 {
+    color: rgb(122, 231, 19);
+    font-size: 2rem;
+  }
+
+  h2 {
+    color: rgb(253, 142, 14);
+    font-size: 2rem;
+  }
+
+  .item {
+    border: 1px solid rgb(226, 88, 88);
+    padding: 1rem;
+  }
+  
+  .selected {
+    background-color: rgb(226, 41, 41);
+  }
+  
+ #main-menu{
+   width: 500px;
+    display: flex;
+   flex-direction:ro；
+
+.container{
+    width: 10px;
+    height: 10px;
+    display: 10px;
+    flex-direction: row;
+    justify-content: space-between;
+    color: #000;
+    font: 1em sans-serif;
+}
